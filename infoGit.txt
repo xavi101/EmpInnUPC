@@ -1,0 +1,16 @@
+# Info Git
+
+# How to Add new file from your desktop to your repo (you haven't cloned yet!)
+
+git status
+% This is not a Git command, touch really means “create.”
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/xavi101/YOUR_REPO.git
+git push -u origin master
+
+
+# If you have already done a clone, then you have all the information on a local Directory
+git status
