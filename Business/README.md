@@ -7,12 +7,12 @@ output: html_document
 
 
 
-# Informació General del Business
+# Informació General del Business :heavy_check_mark:
 
 
 ### Preguntes
 
-*Atenció* És un exercici opcional relacionat amb la voste proposta de negoci **Start-Up**.
+*Atenció* És un exercici opcional relacionat amb la vostre proposta de negoci **Start-Up**.
 
 * :one: Què fa el teu negoci?
 

@@ -6,8 +6,8 @@ output: html_document
 ---
 
 
-# Informació General del TEST
-(_No Operatiu_)
+# Informació General del TEST :heavy_check_mark:
+
 
 ### Preguntes
 * [:one:] Descriu el procés d'emprenedoria (enumera els passos)
