@@ -54,6 +54,9 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
 
 
+Make sure that you are on the master branch. This will be the case if you just forked, otherwise switch to master.
+
+$ git checkout master
 
 
 
@@ -65,3 +68,40 @@ git reset --hard origin/master
 git fetch downloads the latest from remote without trying to merge or rebase anything.
 
 Then the git reset resets the master branch to what you just fetched. The --hard option changes all the files in your working tree to match the files in origin/master, !!! so if you have any local changes, they will be lost. With or without --hard, any local commits that haven't been pushed will be lost.
+
+
+
+#####
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+
+$ git checkout master
+
+Already on 'master'
+Your branch and 'origin/master' have diverged,
+and have 2 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+
+$ git pull
+
+Merge made by the 'recursive' strategy.
+ README.md | 14 ++++++++------
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+
+$ git push -u origin master
+
+Username for 'https://github.com': xavi101
+Password for 'https://xavi101@github.com':
+Counting objects: 12, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (10/10), 2.71 KiB | 0 bytes/s, done.
+Total 10 (delta 3), reused 0 (delta 0)
+To https://github.com/xavi101/EmpInnUPC.git
+   fd15058..785f7a3  master -> master
+Branch master set up to track remote branch master from origin.
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
