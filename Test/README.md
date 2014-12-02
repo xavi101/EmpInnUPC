@@ -24,6 +24,9 @@ output: html_document
   + Hint: 4 c's
 * [:nine:] Perquè és important estudiar a la competència? L'afirmació _no hi ha comperència_ la podem interpretar com a positiva o com a negativa? (Justificar la resposta)
 * [:keycap_ten:] Si la nostre start-up te relació amb el desenvolupament d'aplicacions mòbils, té sentit calcular el punt d'equilibri?
+
+
+Intentar ser breus, però clars en les respostes, Gràcies
 ---
 
 
