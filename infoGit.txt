@@ -14,3 +14,54 @@ git push -u origin master
 
 # If you have already done a clone, then you have all the information on a local Directory
 git status
+git add .
+git commit -m "my commit"
+git remote add origin https://github.com/xavi101/EmpInnUPC.git
+git push -u origin master
+
+
+####
+
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+$ git add .
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+$ git commit -m "info parcial Test"
+[master bd60974] info parcial Test
+ 3 files changed, 80 insertions(+)
+ create mode 100644 Business/README.md
+ create mode 100644 Test/README.md
+ create mode 100644 infoGit.txt
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+$ git remote add origin https://github.com/xavi101/EmpInnUPC.git
+fatal: remote origin already exists.
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+$ git push -u origin master
+Username for 'https://github.com': xavi101
+Password for 'https://xavi101@github.com':
+To https://github.com/xavi101/EmpInnUPC.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/xavi101/EmpInnUPC.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+font@INF_XFONT /e/Github/UPCempInn/EmpInnUPC (master)
+
+
+
+
+
+
+####
+git fetch --all
+git reset --hard origin/master
+
+git fetch downloads the latest from remote without trying to merge or rebase anything.
+
+Then the git reset resets the master branch to what you just fetched. The --hard option changes all the files in your working tree to match the files in origin/master, !!! so if you have any local changes, they will be lost. With or without --hard, any local commits that haven't been pushed will be lost.
