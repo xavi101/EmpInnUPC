@@ -22,8 +22,8 @@ output: html_document
 * [:seven:] Pots explicar a que fa referència el tema Customer Research i quina relació creus que pot tenir amb el model de negoci
 * [:eight:] Descriu el marqueting mix des de la perspectiva relacional (_del client_)
   + Hint: 4 c's
-*[:nine:] Perquè és important estudiar a la competència? L'afirmació _no hi ha comperència_ la podem interpretar com a positiva o com a negativa? (Justificar la resposta)
-*[:keycap_ten:] Si la nostre start-up te relació amb el desenvolupament d'aplicacions mòbils, té sentit calcular el punt d'equilibri?
+* [:nine:] Perquè és important estudiar a la competència? L'afirmació _no hi ha comperència_ la podem interpretar com a positiva o com a negativa? (Justificar la resposta)
+* [:keycap_ten:] Si la nostre start-up te relació amb el desenvolupament d'aplicacions mòbils, té sentit calcular el punt d'equilibri?
 ---
 
 
