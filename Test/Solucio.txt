@@ -1,5 +1,59 @@
-﻿Solució – your PUBLIC KEY HERE
+﻿Solució – PUBLIC KEY: 750991 17
 
 Respostes
 
-1.- 
+1.-
+    - Motivación: ideas y habilidades que nos hacen emprender.
+    - Oportunidad de negocio: elaborar el proyecto.
+    - Puesta en marcha: poner en marcha la actividad empresarial.
+    - Desarrollo inicial: introducir la idea en el mercado.
+    
+2.- Cuando decimos innovación nos referimos a que introducimos en el mercado un producto nuevo o uno con mejoras que hasta el momento no las hay.
+    Como dijiste en clase "Hay que hacer ver a nuestros futuros clientes que diferencias tiene nuestro producto en base a los del mercado."
+
+3.- Poner dificultades a nuestros competidores para que accedan a nuesta parte de mercado, mediante patentes y otras alternativas.
+
+4.- El PEST es el estudio de nuestro entorno cuando queremos emprender. Es necesario para saber que necesitamos y que barreras nos podemos encontrar.
+    (Políticas, Económicas, Sociales y Tecnológicas)
+    
+5.-
+    - Cauda/Efecto: Modificar las causas que afectan a la calidad de tu producto. Revisamos multiples aspectos.
+    - Pensamiento analógico: buscar problemas e intentar buscar soluciones para resolverlos.
+    - Lluvia de ideas: Se intentan buscar y apuntar en un periodo corto de tiempo las ideas que tenemos. Luego procedemos a filtrarlas y seleccionar.
+    
+6.- Permite en un solo papel ver nuesto modelo de negocio. Se enumeran y ordenan por:
+    6.1: Value Propositions
+    6.2: Customer Segments
+    6.3: Channels
+    6.4: Customer Relationships
+    6.5: Revenue Streams
+    6.6: Key Partners
+    6.7: Key Activities
+    6.8: Key Resources
+    6.9: Cost Structure
+    
+    No eliminaría ningun apartado, ya que creo que por poca información que tengas de cualquiera de ellos, esa información es importante para emprender.
+    Ejemplo: Si tu coste de estructura es pequeño y se describe en "4 palabras" es un valor añadido, ya que no tener un coste grande de estructura al principio es un buen HANDICAP.
+    
+    Los conceptos que tienen que ver con el Value Propositions y el Customer Segments son:
+        - MVP(Producto mínimo viable): Primer prototipo para lanzar tu idea al mercado.
+        - Product Market Fit: Reacción del mercado ante tu producto, están dispuestos a comprarlo, el coste es razonable y el mercado es amplio para sostener el negocio. 
+
+7.- Podemos ver con el Customer Segments para quien creamos nuestro producto y quienes son los clientes más importantes(Organizados por tipos, edad...). Es importante para ser
+    más efectivos identificando a nuestro target y ofreciendoles nuestro producto.
+    
+8.- El marqueting mix nos sirve para analizar la estrategía a seguir internamente y se analiza mediante cuatro variables:
+    Las 4 C's evolucionan tal y como comentamos en clase de las 4 P's:
+    - Producto --> Cliente
+    - Promoción --> Comunicación
+    - Precio --> Coste
+    - Plaza --> Conveniencia
+    
+9.- Es importante analizar a la competencia para ver todos aquellos aspectos que nosotros mejoramos o podemos mejorar en base a su producto/servicio.
+    La afirmación no hay competencia la interpretaría negativamente, debido a que alomejor nuestro producto no está en el mercado porque no es necesario o la gente no lo compra ya sea
+    por que es caro o porque no lo quieren. En muy pocos casos empresas pueden decir que no hay competencia y su idea es NUEVA y NO ESTÁ EN EL MERCADO (Ej: Facebook con el concepto RED SOCIAL)
+    pero casi siempre las ideas deriban de otras ideas.
+    
+10.- Si, ya que el punto de equilibrio es el que marca el área de déficit y la de beneficio, sea lo que sea siempre hay unos costes(inversión en tecnología, móviles para hacer pruebas...) y unos beneficios
+     en base al negocio que hemos propuesto. Además es importante porque hace un tiempo leí en una noticia que un 59% de las aplicaciones móviles no llegaban al punto de equilibrio y no recuperaban la inversión.
+    
