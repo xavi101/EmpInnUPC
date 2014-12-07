@@ -2,4 +2,36 @@
 
 Respostes
 
-1.- 
+1.- El procés emprenedor es tracta de les següents etapes:
+    - Tenir motivació i una idea de negoci.
+    - Pensar com durem a terme aquesta idea (Un pla de negoci).
+    - La posta en marxa d'aquest, com comença el negoci.
+    - El creixement de l'empresa.
+2.- Ens referim a portar a terme alguna idea que ningú ha proposat abans.
+3.- Si el negoci es basa en un producte fer un MVP, patentar el concepte i seguir endevant. Si es tracta d'una idea dur-la a terme l'abans possible.
+4.- L'analisi PEST es tracta d'un anàlisi que identifica els factors que afectaran a l'empresa en els àmbits:
+    - Politic
+    - Econòmic
+    - Social
+    - Tecnològic
+5.- 
+    - Brain Storming: Una pluja d'idees on tothom diu tot el que passa pel cap sense menysprear idees.
+    - Sis barrets: Sis persones que agafen un rol que fer a l'hora de defensar/analitzar una idea.
+    - Treballar en grup.
+6.- El model de negoci és el plan d'una empresa per a obtenir diners i saber a quins clients s'ha d'adreçar.
+    - Customer Segments, Key Partners, Revenue Streams, Value proposition, Key activities, Key Resources, Customer Relationships, Channels i Cost Structure.
+    - En la meva opinió no hi ha cap bloc que sigui poc rellevant, pot ser que el teu negoci tingui un bloc més fluix amb menys informació pero si no pots 
+        plenar-los/ pots prescindir d'algún, alguna cosa estas fent malament.(Tot el que hi ha al CANVAS és necessari per l'empresa), per exemple si diguessim:
+        "Podem prescindir de Channels, perque és el de menys, la gent em coneixerà", és un pensament totalment erroni doncs el canal(Com els clients et coneixeran)
+        pot arribar a ser tant important com el Revenue Streams, si ningú et coneix perquè no t'has donat a coneixer o no han arribat a tu, mai tindras revenue.
+    - El Product Market Fit, el fet de que el teu producte(la teva proposició de valor) sigui acceptada pels clients/pel mercat (Customer Segments)
+7.- El Customer Research es tracta del fet d'analitzar l'entorn de l'empresa així com les accions dels consumidors, a partir de la investigació de mercats podem fer un 
+    analisi DAFO (Debilitats Amenaces Fortaleses i Oportunitat).
+8.-
+9.- És important estudiar a la competència per a saber si el teu producte estarà per devant d'un que ja ofereixen o en serà un de més i per tant no sera gens innovador.
+    La frase pot ser interpretada tant positivament com negativament, si ho mirem com a positiu pot ser que realment la nostre idea es tracti d'un oceà blau i tinguem les portes obertes,
+    per altre banda si ho mirem com a negativa, pot ser que el qui la diu no s'hagi preocupat de buscar si existeix una competència o no i per tant no ha fet buna bona investigacio de mercat.
+10.- Si, sempre té sentit calcular un punt d'equilibri, doncs si no posem preu a les accions que nosaltres mateixos duem a terme (per exemple programar una aplicació) després no podrem
+    donar-li un valor a aquesta acció i no tindrem una referència sobre si és o no és viable fer el que fem. Podríem arribar a perdre diners pel fet de no valorar-ho. Suposem que no ho valoro
+    i estic 1 any amb les esperances de que fent un treball que no em costa "res", que no em suposa ningun gast de diners a la meva empresa, i resulta de que no surt endevant. Hem estat 1 any pagant
+    tant llicencies com lloguers i factures sense rebre res a canvi. Hem de valorar el treball que fem i donar-li un preu per veure si tenim el feedback necessari per a que hi hagi un equilibri.
